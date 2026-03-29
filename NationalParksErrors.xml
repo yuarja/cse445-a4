@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+  <NationalPark>
+    <name>Yosemite National Park</name>
+    <phone>209-372-0200</phone>
+    <address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </address>
+  </NationalPark>
+  <NationalPark rating="4.8">
+    <name>Yosemite National Park</name>
+    <address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </address>
+  </NationalPark>
+  <NationalPark rating="4.8">
+    <name>Yosemite National Park</name>
+    <phone>209-372-0200</phone>
+    <address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+  </NationalPark>
+  <NationalPark rating="4.8">
+    <name>Yosemite National Park</name>
+    <name>Yosmemite National Park</name>
+    <phone>209-372-0200</phone>
+    <address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </address>
+  </NationalPark>
+  <NationalPark rating="4.8">
+    <name>Yosemite National Park</name>
+    <phone>209-372-0200</phone>
+    <address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </address>
+  </NationalPark>
+  <NationalPark rating="4.8">
+    <name>Yosemite National Park</name>
+    <phone>209-372-0200</phone>
+    <address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </address>
+  </NationalPark>
+  <NationalPark rating="4.8">
+    <name>Yosemite National Park</name>
+    <phone>209-372-0200</phone>
+    <address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </address>
+  </NationalPark>
+  <NationalPark rating="4.8">
+    <name>Yosemite National Park</name>
+    <phone>209-372-0200</phone>
+    <address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </address>
+  </NationalPark>
+  <NationalPark rating="4.8">
+    <name>Yosemite National Park</name>
+    <phone>209-372-0200</phone>
+    <address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </address>
+  </NationalPark>
+  <NationalPark rating="4.8">
+    <name>Yosemite National Park</name>
+    <phone>209-372-0200</phone>
+    <address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </address>
+  </NationalPark>
+</NationalPark>
