@@ -4,7 +4,7 @@
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address>
+    <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
       <Street>Village Drive</Street>
       <City>Yosemite National Park</City>
@@ -26,7 +26,7 @@
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address>
+    <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
       <Street>Village Drive</Street>
       <City>Yosemite National Park</City>
@@ -37,7 +37,7 @@
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address>
+    <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
       <Street>Village Drive</Street>
       <City>Yosemite National Park</City>
@@ -48,7 +48,7 @@
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address>
+    <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
       <Street>Village Drive</Street>
       <City>Yosemite National Park</City>
@@ -59,7 +59,7 @@
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address>
+    <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
       <Street>Village Drive</Street>
       <City>Yosemite National Park</City>
@@ -70,7 +70,7 @@
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address>
+    <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
       <Street>Village Drive</Street>
       <City>Yosemite National Park</City>
@@ -81,7 +81,7 @@
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address>
+    <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
       <Street>Village Drive</Street>
       <City>Yosemite National Park</City>
@@ -92,7 +92,7 @@
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address>
+    <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
       <Street>Village Drive</Street>
       <City>Yosemite National Park</City>
@@ -103,7 +103,7 @@
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
-    <Address>
+    <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
       <Street>Village Drive</Street>
       <City>Yosemite National Park</City>
