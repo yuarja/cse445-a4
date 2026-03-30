@@ -20,13 +20,7 @@
                 </xs:complexType>
               </xs:element>
             </xs:sequence>
-            <xs:attribute name="rating" use="optional">
-              <xs:simpleType>
-                <xs:restriction base="xs:double">
-                  <xs:minInclusive value="1"/>
-                  <xs:maxInclusive value="5"/>
-                </xs:restriction>
-              </xs:simpleType>
+            <xs:attribute name="rating" type="xs:double" use="optional">
             </xs:attribute>
           </xs:complexType>
         </xs:element>
