@@ -3,6 +3,16 @@
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
+    <Address>
+      <Number>9035</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite National Park</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark rating="4.8">
+    <Name>Yosemite National Park</Name>
     <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
       <Street>Village Drive</Street>
@@ -20,21 +30,10 @@
       <City>Yosemite National Park</City>
       <State>CA</State>
       <Zip>95389</Zip>
-    </Address>
   </NationalPark>
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
-    <Phone>209-372-0200</Phone>
-    <Address NearestAirport="Fresno Airport">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
-      <State>CA</State>
-      <Zip>95389</Zip>
-    </Address>
-  </NationalPark>
-  <NationalPark rating="4.8">
-    <Name>Yosemite National Park</Name>
+    <Name>Yomemite National Park</Name>
     <Phone>209-372-0200</Phone>
     <Address NearestAirport="Fresno Airport">
       <Number>9035</Number>
