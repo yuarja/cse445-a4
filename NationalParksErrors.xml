@@ -1,5 +1,17 @@
 <NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="https://yuarja.github.io/cse445-a4 NationalParks.xsd">
+  <NationalPark rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="Flagstaff">
+      <Number>8</Number>
+      <Street>S Entrace Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+  </NationalPark>
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
@@ -11,102 +23,104 @@
       <Zip>95389</Zip>
     </Address>
   </NationalPark>
-  <NationalPark rating="4.8">
-    <Name>Yosemite National Park</Name>
+  <NationalPark rating="4.9">
+    <Name>Sequoia National Park</Name>
     <Address NearestAirport="Fresno Airport">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
+      <Number>47050</Number>
+      <Street>Generals Highway</Street>
+      <City>Three Rivers</City>
       <State>CA</State>
-      <Zip>95389</Zip>
+      <Zip>93271</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Redwood National Park</Name>
+    <Name> Nat park</Name>
+    <Phone>707-464-6101</Phone>
+    <Address NearestAirport="Fresno Airport">
+      <Number>1111</Number>
+      <Street>Second Street</Street>
+      <City>Crescent City</City>
+      <State>CA</State>
+      <Zip>95531</Zip>
     </Address>
   </NationalPark>
   <NationalPark rating="4.8">
-    <Name>Yosemite National Park</Name>
-    <Phone>209-372-0200</Phone>
+    <Name>Joshua Tree National Park</Name>
+    <Phone>760-367-5500</Phone>
     <Address NearestAirport="Fresno Airport">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
+      <Number>74485</Number>
+      <Street>National Park Drive</Street>
+      <City>Twentynine Palms</City>
       <State>CA</State>
-      <Zip>95389</Zip>
-  </NationalPark>
-  <NationalPark rating="4.8">
-    <Name>Yosemite National Park</Name>
-    <Name>Yomemite National Park</Name>
-    <Phone>209-372-0200</Phone>
-    <Address NearestAirport="Fresno Airport">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
-      <State>CA</State>
-      <Zip>95389</Zip>
+      <Zip>92277</Zip>
     </Address>
   </NationalPark>
   <NationalPark rating="4.8">
-    <Name>Yosemite National Park</Name>
-    <Phone>209-372-0200</Phone>
-    <Address NearestAirport="Fresno Airport">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
+    <Name>Lassen Volcanic National Park</Name>
+    <Phone>530-595-6100</Phone>
+    <Address NearestAirport="Reno-Tahoe International Airport">
+      <Number>100</Number>
+      <Street>PO Box</Street>
+      <City>Mineral</City>
       <State>CA</State>
-      <Zip>95389</Zip>
+      <Zip>96063</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark>
+    <Name>Muir Woods National Monument</Name>
+    <Phone>415-561-2850</Phone>
+    <Phone>415-561-5656</Phone>
+    <Address NearestAirport="San Francisco International Airport">
+      <Number>1</Number>
+      <Street>Muir Woods Rd</Street>
+      <City>Mill Valley</City>
+      <State>CA</State>
+      <Zip>94941</Zip>
     </Address>
   </NationalPark>
   <NationalPark rating="4.8">
-    <Name>Yosemite National Park</Name>
-    <Phone>209-372-0200</Phone>
-    <Address NearestAirport="Fresno Airport">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
+    <Name>Big Basin Redwoods State Park</Name>
+    <Phone>831-338-8860</Phone>
+    <Address NearestAirport="Cedar City Regional Airport">
+      <Number>21600</Number>
+      <Street>Big Basin Hwy</Street>
+      <City>Boulder Creek</City>
       <State>CA</State>
-      <Zip>95389</Zip>
+      <Zip>95006</Zip>
     </Address>
   </NationalPark>
   <NationalPark rating="4.8">
-    <Name>Yosemite National Park</Name>
-    <Phone>209-372-0200</Phone>
+    <Name>Sierra National Forest</Name>
+    <Phone>559-297-0706</Phone>
     <Address NearestAirport="Fresno Airport">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
+      <Number>1600</Number>
+      <Street>Tollhouse Road</Street>
+      <City>Clovis</City>
       <State>CA</State>
-      <Zip>95389</Zip>
+      <Zip>93611</Zip>
+    </Address>
+  </NationalPark>
+  <NationalPark rating="4.7">
+    <Name>Santa Monica Mountains National Park</Name>
+    <Phone>805-370-2301</Phone>
+    <Address NearestAirport="Fresno Airport">
+      <Number>26876</Number>
+      <Street>Mulholland Highway</Street>
+      <City>Calabasas</City>
+      <State>CA</State>
+      <Zip>91302</Zip>
     </Address>
   </NationalPark>
   <NationalPark rating="4.8">
-    <Name>Yosemite National Park</Name>
-    <Phone>209-372-0200</Phone>
+    <Name>Kings Canyon National Park</Name>
+    <Phone>559-565-3341</Phone>
     <Address NearestAirport="Fresno Airport">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
+      <Number>47050</Number>
+      <Street>Generals Highway</Street>
+      <City>Three Rivers</City>
       <State>CA</State>
-      <Zip>95389</Zip>
-    </Address>
-  </NationalPark>
-  <NationalPark rating="4.8">
-    <Name>Yosemite National Park</Name>
-    <Phone>209-372-0200</Phone>
-    <Address NearestAirport="Fresno Airport">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
-      <State>CA</State>
-      <Zip>95389</Zip>
-    </Address>
-  </NationalPark>
-  <NationalPark rating="4.8">
-    <Name>Yosemite National Park</Name>
-    <Phone>209-372-0200</Phone>
-    <Address NearestAirport="Fresno Airport">
-      <Number>9035</Number>
-      <Street>Village Drive</Street>
-      <City>Yosemite National Park</City>
-      <State>CA</State>
-      <Zip>95389</Zip>
+      <Zip>93271</Zip>
     </Address>
   </NationalPark>
 </NationalParks>
