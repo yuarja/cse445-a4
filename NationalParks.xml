@@ -1,5 +1,5 @@
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:noNamespaceSchemaLocation="NationalParks.xsd">
+  xsi:schemaLocation="https://yuarja.github.io/cse445-a4 NationalParks.xsd">
   <NationalPark rating="4.8">
     <Name>Yosemite National Park</Name>
     <Phone>209-372-0200</Phone>
